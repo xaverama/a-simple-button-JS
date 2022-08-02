@@ -9,7 +9,7 @@ let food = "";
 
 let bamboo = "🎋";
 
-let pandaCage = hungryPanda + food;
+let pandaCage = hungryPanda + food; // initial value is 🐼 because food is empty
 
 
 function throwSomeFoodIntoTheCage() {
